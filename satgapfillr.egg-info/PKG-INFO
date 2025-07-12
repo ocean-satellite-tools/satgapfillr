@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: satgapfillr
+Version: 0.1.0
+Summary: Gap-filling UNet model for remote sensing data
+Author-email: Your Name <you@example.com>
+License: Apache-2.0
+License-File: LICENSE
+Requires-Dist: xarray
+Requires-Dist: tensorflow
+Requires-Dist: xbatcher
+Requires-Dist: zarr
+Requires-Dist: fsspec
+Requires-Dist: scikit-learn

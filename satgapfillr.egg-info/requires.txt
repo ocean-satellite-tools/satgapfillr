@@ -1,0 +1,6 @@
+xarray
+tensorflow
+xbatcher
+zarr
+fsspec
+scikit-learn
